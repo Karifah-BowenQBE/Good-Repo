@@ -1,1 +1,2 @@
-test of a Bad Repo
+test of a Good Repo
+Edit of Good Repo
