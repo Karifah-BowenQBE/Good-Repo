@@ -4,3 +4,4 @@ test2 of edit
 test 3 of edit after DLP Prevent policy applied
 Test 5 after Access Override policy Added
 test 6 with Block policy enabled
+test 7 after instance-controlled tag added
